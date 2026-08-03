@@ -15,4 +15,4 @@ class Solution {
         
     }
 }
-//solution using hashmap for 2sum problem.
+//q1-solution using hashmap for 2sum problem.
